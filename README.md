@@ -8,6 +8,8 @@ This Python script is a small forensic‑oriented utility that **recursively wal
 
 ---
 
+[Link to video demo](https://youtu.be/dkQaciM1y5s)
+
 ## Key Features
 
 | Feature                       | Description                                                                                                                                      |
