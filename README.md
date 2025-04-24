@@ -118,5 +118,5 @@ Distributed under the **MIT License** (see LICENSE for details).
 
 ## Credits
 
-- **Christopher O’Brien** – original author & enhancements.
-- Inspired by examples from *FirstScript.py* and *WalkFileSystem.py* by **Chet Hosmer**.
+- **Christopher O’Brien** – author & enhancements.
+- Inspired by examples Python forensics course with * by **Chet Hosmer** 2020.
